@@ -4,7 +4,7 @@ I mainly use Python to solve the question with the simple way as much as possibl
 
 ## Algorithm
 
-* Dynamic Programming
+* [Dynamic Programming](https://github.com/chihhoyen/LeetCode#dynamic-programming)
 
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note | 
