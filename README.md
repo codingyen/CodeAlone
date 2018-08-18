@@ -9,4 +9,4 @@ I mainly use Python and try to solve the question with the simpliest way.
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- | -----|
-010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Python | O(m * n) | O(n) | Hard |
+010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/chihhoyen/LeetCode/blob/master/Python/010_regular_expression_matching.py) | O(m * n) | O(n) | Hard |
