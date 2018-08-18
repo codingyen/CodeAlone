@@ -42,7 +42,6 @@ class Solution(object):
         # Start from the position 0 for both
         return dp(0, 0) 
 
-
 if __name__ == "__main__":
     print("Start the test!")
     print(Solution().isMatch("aa", "a"))
