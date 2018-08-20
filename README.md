@@ -11,4 +11,4 @@ In addition, all the similar questions are put together for comparison.
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- | -----|
 010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/010_regular_expression_matching.py) | O(n) | O(m * n) | Hard |
-044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard-matching.py) | O(m + n) | O(1) | Hard | Tricky
+044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard-matching.py) | _O(m + n)_ | _O(1)_    | Hard           || Tricky
