@@ -44,5 +44,6 @@ class Solution(object):
 
 if __name__ == "__main__":
     print("Start the test!")
-    print(Solution().isMatch("aa", "a"))
-    print(Solution().isMatch("aa","aa"))
+    s = Solution()
+    print(s.isMatch("aa", "a"))
+    print(s.isMatch("aa","aa"))
