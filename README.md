@@ -18,5 +18,5 @@
 ## Find Limit
 |  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
 |-----|-------|----------|-----------|------|-------|------------|------|
-162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./Python/162_find_peak_element) | Binary Search | _O(logn)_ | _O(1)_ | Medium 
+162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/162_find_peak_element.py) | Binary Search | _O(logn)_ | _O(1)_ | Medium 
 
