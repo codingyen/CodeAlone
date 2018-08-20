@@ -51,10 +51,11 @@ class Solution(object):
 
 if __name__ == "__main__":
     print("Start the test!")
-    print(Solution().isMatch("aa", "a"))
-    print(Solution().isMatch("aa","aa"))
-    print(Solution().isMatch("aaa","aa"))
-    print(Solution().isMatch("aa", "a*"))
-    print(Solution().isMatch("aa", "?*"))
-    print(Solution().isMatch("ab", "?*"))
-    print(Solution().isMatch("aab", "c*a*b"))
+    s = Solution()
+    print(s.isMatch("aa", "a"))
+    print(s.isMatch("aa","aa"))
+    print(s.isMatch("aaa","aa"))
+    print(s.isMatch("aa", "a*"))
+    print(s.isMatch("aa", "?*"))
+    print(s.isMatch("ab", "?*"))
+    print(s.isMatch("aab", "c*a*b"))
