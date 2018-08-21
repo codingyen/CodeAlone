@@ -9,7 +9,7 @@
 * [Matching Question](https://github.com/codingyen/LeetCode#match-question)
 * [Find Limit](https://github.com/codingyen/LeetCode/blob/master/README.md#find-limit)
 
-## Matching Question
+## Match Question
 
 ### Group001
 |  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
@@ -17,7 +17,7 @@
 010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/010_regular_expression_matching.py) | DP | _O(n)_ | _O(m * n)_ | Hard |
 044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/044_wildcard_matching.py) | Greedy | _O(m + n)_ | _O(1)_ | Hard | Tricky |
 
-## Find Limit
+## Limit Question
 
 ### Group001
 |  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
