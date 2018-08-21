@@ -34,4 +34,4 @@
 ### Group001
 |  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
 |-----|-------|----------|-----------|------|-------|------------|------|
-280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/280_wiggle_sort.py) | Sort | _O(n)_ | _O(1)_ | Hard |
+280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/280_wiggle_sort.py) | Sort | _O(n)_ | _O(1)_ | Medium |
