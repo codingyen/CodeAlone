@@ -7,7 +7,7 @@
 ## Category
 
 * [Matching Question](https://github.com/codingyen/LeetCode#match-question)
-* [Find Limit](https://github.com/codingyen/LeetCode/blob/master/README.md#find-limit)
+* [Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#find-limit)
 
 ## Match Question
 
