@@ -6,7 +6,8 @@
 
 ## Category
 * [Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
-* [Matching Question](https://github.com/codingyen/LeetCode#match-question)
+* [Mapping Question](https://github.com/codingyen/LeetCode#mapping-question)
+* [Matching Question](https://github.com/codingyen/LeetCode#matching-question)
 * [Sort Question](https://github.com/codingyen/LeetCode#sort-question)
 
 ## Limit Question
@@ -21,7 +22,14 @@
 |-----|-------|----------|-----------|------|-------|------------|------|
 253| [Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/253_meeting_room_ii.py) | Sort | _O(nlogn)_ | _O(n)_ | Medium |
 
-## Match Question
+## Mapping Question
+
+### Group001
+|  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
+|-----|-------|----------|-----------|------|-------|------------|------|
+760| [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/760_find_anagram_mappings.py) | Hash Table | _O(n)_ | _O(n)_ | Easy |
+
+## Matching Question
 
 ### Group001
 |  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
