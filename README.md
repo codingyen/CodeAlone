@@ -5,12 +5,12 @@
 - Last but not least, welome for any kind of feedback.
 
 ## Category
-* [Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
+* [Find Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
 * [Mapping Question](https://github.com/codingyen/LeetCode#mapping-question)
 * [Matching Question](https://github.com/codingyen/LeetCode#matching-question)
 * [Sort Question](https://github.com/codingyen/LeetCode#sort-question)
 
-## Limit Question
+## Find Limit Question
 
 |  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
 |-----|-------|----------|-----------|------|-------|------------|------|
