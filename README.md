@@ -2,7 +2,7 @@
 - Some of LeetCode questions are very interesting and worth to help understand the algorithm.
 - I mainly use Python to solve the question and try to make it as much simple as possible.
 - In addition, all the similar questions are put together for easier comparison.
-- Last but not least, welome for any kind of feedback.
+- Last but not least, welome for any feedback.
 
 ## Category
 * [Find Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
