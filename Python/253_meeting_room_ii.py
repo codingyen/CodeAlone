@@ -43,14 +43,14 @@ class Solution(object):
 if __name__ == "__main__":
     print("Start the test!")
     
-    first = [Interval() for _ in xrange(3)]
+    first = [Interval() for _ in range(3)]
     first[0].start = 0
     first[0].end = 30
     first[1].start = 5
     first[1].end = 10
     first[2].start = 15
     first[2].end = 20
-    second = [Interval() for _ in xrange(2)]
+    second = [Interval() for _ in range(2)]
     second[0].start = 7
     second[0].end = 10
     second[1].start = 2
