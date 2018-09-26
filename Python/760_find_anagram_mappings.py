@@ -30,7 +30,7 @@ class Solution(object):
         map = {}
         res = []
 
-        for i in xrange(len(B)):
+        for i in range(len(B)):
             map[B[i]] = i
 
         for j in A:
