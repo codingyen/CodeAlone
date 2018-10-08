@@ -20,6 +20,9 @@
 ### Array
 
 ### Sorting
+|  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
+|-----|-------|----------|-----------|------|-------|------------|------|
+280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/280_wiggle_sort.py) | Sort | _O(n)_ | _O(1)_ | Medium |
 
 ### Searching
 
@@ -32,6 +35,12 @@
 ### Graph
 * [Breadth First Search](https://github.com/codingyen/LeetCode/blob/master/README.md#breadth-first-search)
 * [Depth First Search](https://github.com/codingyen/LeetCode/blob/master/README.md#depth-first-search)
+#### Breadth First Search
+|  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
+|-----|-------|----------|-----------|------|-------|------------|------|
+162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/162_find_peak_element.py) | Binary Search | _O(logn)_ | _O(1)_ | Medium |
+253| [Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/253_meeting_room_ii.py) | Sort | _O(nlogn)_ | _O(n)_ | Medium |
+681| [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/681_next_closest_time.py) | String | _O(1)_ | _O(1)_ | Medium |
 
 ### String
 
@@ -40,15 +49,3 @@
 ### BIT Manipulation
 
 ### Number Theory
-
-#### Breadth First Search
-|  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
-|-----|-------|----------|-----------|------|-------|------------|------|
-162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/162_find_peak_element.py) | Binary Search | _O(logn)_ | _O(1)_ | Medium |
-253| [Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/253_meeting_room_ii.py) | Sort | _O(nlogn)_ | _O(n)_ | Medium |
-681| [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/681_next_closest_time.py) | String | _O(1)_ | _O(1)_ | Medium |
-
-#### Sort Question
-|  #  | Title | Solution | Algorithm | Time | Space | Difficulty | Note | 
-|-----|-------|----------|-----------|------|-------|------------|------|
-280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Python](https://github.com/codingyen/LeetCode/blob/master/Python/280_wiggle_sort.py) | Sort | _O(n)_ | _O(1)_ | Medium |
