@@ -18,6 +18,11 @@
 * [Array](https://github.com/codingyen/LeetCode/blob/master/README.md#array)
 
 ### Graph
+* [Breadth First Search](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
+* [Depth First Search](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
+* [Dijkstra](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
+* [Union Find](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
+
 ### Linked List
 ### Dynamic Programming
 ### Sorting
@@ -28,6 +33,8 @@
 ### BIT Manipulation
 ### String
 ### Array
+
+#### Breadth First Search
 
 * [Find Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
 * [Mapping Question](https://github.com/codingyen/LeetCode#mapping-question)
