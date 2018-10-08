@@ -7,6 +7,20 @@
 ## Topics
 ### Graph
 ### Linked List
+### Dynamic Programming
+### Sorting
+### Searching
+### Tree
+### Binary Search Tree
+### Number Theory
+### BIT Manipulation
+### String
+### Array
+
+
+
+
+
 * [Find Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
 * [Mapping Question](https://github.com/codingyen/LeetCode#mapping-question)
 * [Matching Question](https://github.com/codingyen/LeetCode#matching-question)
