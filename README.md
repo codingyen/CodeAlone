@@ -5,6 +5,18 @@
 - Last but not least, welome for any feedback.
 
 ## Topics
+* [Graph](https://github.com/codingyen/LeetCode/blob/master/README.md#graph)
+* [Linked List](https://github.com/codingyen/LeetCode/blob/master/README.md#linked-list)
+* [Dynamic Programming](https://github.com/codingyen/LeetCode/blob/master/README.md#dynamic-programming)
+* [Sorting](https://github.com/codingyen/LeetCode/blob/master/README.md#sorting)
+* [Searching](https://github.com/codingyen/LeetCode/blob/master/README.md#searching)
+* [Tree](https://github.com/codingyen/LeetCode/blob/master/README.md#tree)
+* [Binary Search Tree](https://github.com/codingyen/LeetCode/blob/master/README.md#binary-search-tree)
+* [Number Theory](https://github.com/codingyen/LeetCode/blob/master/README.md#number-theory)
+* [BIT Manipulation](https://github.com/codingyen/LeetCode/blob/master/README.md#bit-manipulation)
+* [String](https://github.com/codingyen/LeetCode/blob/master/README.md#string)
+* [Array](https://github.com/codingyen/LeetCode/blob/master/README.md#array)
+
 ### Graph
 ### Linked List
 ### Dynamic Programming
@@ -16,10 +28,6 @@
 ### BIT Manipulation
 ### String
 ### Array
-
-
-
-
 
 * [Find Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
 * [Mapping Question](https://github.com/codingyen/LeetCode#mapping-question)
