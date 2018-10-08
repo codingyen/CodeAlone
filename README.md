@@ -4,7 +4,8 @@
 - In addition, all the similar questions are put together for easier comparison.
 - Last but not least, welome for any feedback.
 
-## Category
+## Topics
+### Graph
 * [Find Limit Question](https://github.com/codingyen/LeetCode/blob/master/README.md#limit-question)
 * [Mapping Question](https://github.com/codingyen/LeetCode#mapping-question)
 * [Matching Question](https://github.com/codingyen/LeetCode#matching-question)
