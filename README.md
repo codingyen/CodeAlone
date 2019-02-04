@@ -1,8 +1,7 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
 - Some LeetCode questions are very useful to help us understand the algorithm better.
-- I mainly use Python to solve the question and try to make it as much simple as possible.
-- In addition, all the same type of questions are put together for easier comparison.
-- Last but not least, welome for any feedback.
+- All the same type of questions are put together for easier comparison.
+- Any feedback is appreciated.
 
 ## Topics
 * [Array](https://github.com/codingyen/LeetCode/blob/master/README.md#array)
