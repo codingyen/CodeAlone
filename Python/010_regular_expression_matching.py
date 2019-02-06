@@ -42,8 +42,33 @@ class Solution(object):
         # Start from the position 0 for both
         return dp(0, 0) 
 
+"""
+Solution 2
+Use recursive
+Base Case
+if not p, return not s 
+Recursion:
+Case Analysis
+s[0] s[1]
+p[0] p[1] p[2]
+
+Case 1: When p[1] != '*' or len(p) == 1,
+        if s[0] == p[0] or (len(s) > 0 and p[0] == '.') 
+            return isMatch(s[1:], p[1:])
+        else
+            return False
+Case 2: When p[1] == '*', keep moving the checking for s to the rightmost
+        while len(s) > 0 and s[0] == p[0] or p[0] == '.':
+            if isMatch(s, p[2:])
+                return True
+            s = s[1:]
+        isMatch(s, p[2:]) => Need to check the last time!
+"""
+
 if __name__ == "__main__":
     print("Start the test!")
     s = Solution()
+    print("Test \"aa\" and \"a\" and the expect reuslt is False!")
     print(s.isMatch("aa", "a"))
+    print("Test \"aa\" and \"aa\" and the expect reuslt is True!")
     print(s.isMatch("aa","aa"))
