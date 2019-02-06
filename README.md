@@ -4,7 +4,7 @@
 - Any feedback is appreciated.
 
 ## Topics
-* [Hash Table]
+* [Hash Table](https://github.com/codingyen/CodeAlone#hash-table)
 * [Array](https://github.com/codingyen/LeetCode/blob/master/README.md#array)
 * [Sorting](https://github.com/codingyen/LeetCode/blob/master/README.md#sorting)
 * [Searching](https://github.com/codingyen/LeetCode/blob/master/README.md#searching)
