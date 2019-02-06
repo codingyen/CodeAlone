@@ -4,6 +4,7 @@
 - Any feedback is appreciated.
 
 ## Topics
+* [Hash Table]
 * [Array](https://github.com/codingyen/LeetCode/blob/master/README.md#array)
 * [Sorting](https://github.com/codingyen/LeetCode/blob/master/README.md#sorting)
 * [Searching](https://github.com/codingyen/LeetCode/blob/master/README.md#searching)
@@ -15,6 +16,11 @@
 * [Dynamic Programming](https://github.com/codingyen/LeetCode/blob/master/README.md#dynamic-programming)
 * [BIT Manipulation](https://github.com/codingyen/LeetCode/blob/master/README.md#bit-manipulation)
 * [Number Theory](https://github.com/codingyen/LeetCode/blob/master/README.md#number-theory)
+
+### Hash Table
+|  #  | Title | Solution | Time | Space | Difficulty | Note | 
+|-----|-------|----------|------|-------|------------|------|
+001| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/001_two_sum.py) | _O(n)_ | _O(n)_ | Easy |
 
 ### Array
 
