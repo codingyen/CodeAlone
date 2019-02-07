@@ -24,7 +24,7 @@ class Solution(object):
         :rtype: bool
         """
         # Create a dictionary to store the status of i and j
-	# i and j is the postition pointers of s and p
+	    # i and j is the postition pointers of s and p
         memo = {}
         def dp(i, j):
             if (i, j) not in memo:
@@ -64,11 +64,40 @@ Case 2: When p[1] == '*', keep moving the checking for s to the rightmost
             s = s[1:]
         isMatch(s, p[2:]) => Need to check the last time!
 """
+class Solution2:
+    # Time: ?, 928 ms
+    # Space: ?, 6.5 MB
+    def isMatch(self, s: 'str', p: 'str') -> 'bool':
+        # Base case
+        if not p:
+            return not s
+        # Note that we need to consider if the length of p is 1 first
+        # Otherwise, p[1] will return error if the length of p is 1
+        if len(p) == 1 or p[1] != '*':
+            # Need to check if len(s) > 0 first
+            if len(s) > 0 and (s[0] == p[0] or p[0] == '.'):
+                return self.isMatch(s[1:], p[1:])
+            else:
+                return False
+        else:
+            while len(s) > 0 and (s[0] == p[0] or p[0] == '.'):
+                if self.isMatch(s, p[2:]):
+                    return True
+                s = s[1:]
+            return self.isMatch(s, p[2:])
 
 if __name__ == "__main__":
     print("Start the test!")
-    s = Solution()
+    s = Solution2()
     print("Test \"aa\" and \"a\" and the expect reuslt is False!")
     print(s.isMatch("aa", "a"))
     print("Test \"aa\" and \"aa\" and the expect reuslt is True!")
     print(s.isMatch("aa","aa"))
+    print("Test \"ab\" and \".*\" and the expect reuslt is True!")
+    print(s.isMatch("ab",".*"))
+    print("Test \"aab\" and \"c*a*b\" and the expect reuslt is True!")
+    print(s.isMatch("aab","c*a*b"))
+    print("Test \"mississippi\" and \"mis*is*p*\" and the expect reuslt is False!")
+    print(s.isMatch("mississippi","mis*is*p*"))
+    print("Test \"ab\" and \".*c\" and the expect reuslt is False!")
+    print(s.isMatch("ab",".*c"))
