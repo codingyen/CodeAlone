@@ -65,8 +65,8 @@ Case 2: When p[1] == '*', keep moving the checking for s to the rightmost
         isMatch(s, p[2:]) => Need to check the last time!
 """
 class Solution2:
-    # Time: ?, 928 ms
-    # Space: ?, 6.5 MB
+    # Time: O((s + p) * 2 ^ (s + p)), 928 ms
+    # Space: O(s + p), 6.5 MB
     def isMatch(self, s: 'str', p: 'str') -> 'bool':
         # Base case
         if not p:
