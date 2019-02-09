@@ -11,7 +11,7 @@
 ### Backtracking
 |  #  | Title | Solution | Time | Space | Difficulty | Note | 
 |-----|-------|----------|------|-------|------------|------|
-001| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/001_two_sum.py) | _O(n)_ | _O(n)_ | Easy |
+017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/017_letter_combinations_of_a_phone_number.py) | _O(n * 4^n)_ | _O(n)_ | Medium |
 
 ### Hash Table
 |  #  | Title | Solution | Time | Space | Difficulty | Note | 
