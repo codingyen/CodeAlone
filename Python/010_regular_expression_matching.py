@@ -13,10 +13,10 @@ p could be empty and contains only lowercase letters a-z, and characters like . 
 """
 # Solution 1
 # Use dp
-# Time:  O(n)
-# Space: O(m * n)
+# Time:  O(m * n), 52 ms
+# Space: O(m * n), 6.9 MB
 
-class Solution(object):
+class Solution1:
     def isMatch(self, s, p):
         """
         :type s: str
@@ -88,7 +88,7 @@ class Solution2:
 
 if __name__ == "__main__":
     print("Start the test!")
-    s = Solution2()
+    s = Solution1()
     print("Test \"aa\" and \"a\" and the expect reuslt is False!")
     print(s.isMatch("aa", "a"))
     print("Test \"aa\" and \"aa\" and the expect reuslt is True!")
