@@ -7,7 +7,7 @@
 * [Backtracking](https://github.com/codingyen/CodeAlone#backtracking)
 * [Hash Table](https://github.com/codingyen/CodeAlone#hash-table)
 * [Math](https://github.com/codingyen/CodeAlone#math)
-* 
+* [Two Pointers](https://github.com/codingyen/CodeAlone#two-pointers)
 
 ### Backtracking
 |  #  | Title | Solution | Time | Space | Difficulty | Note | 
