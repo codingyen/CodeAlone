@@ -5,7 +5,7 @@
 
 ## Topics
 * [Backtracking](https://github.com/codingyen/CodeAlone#backtracking)
-* [Binay Search](https://github.com/codingyen/CodeAlone#binary-search)
+* [Binary Search](https://github.com/codingyen/CodeAlone#binary-search)
 * [Hash Table](https://github.com/codingyen/CodeAlone#hash-table)
 * [Math](https://github.com/codingyen/CodeAlone#math)
 * [Stack](https://github.com/codingyen/CodeAlone#stack)
