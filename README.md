@@ -16,7 +16,7 @@
 |-----|-------|----------|------|-------|------------|------|
 017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/017_letter_combinations_of_a_phone_number.py) | _O(n * 4^n)_ | _O(n)_ | Medium |
 
-### Binay Search
+### Binary Search
 |  #  | Title | Solution | Time | Space | Difficulty | Note | 
 |-----|-------|----------|------|-------|------------|------|
 033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/033_search_in_rotated_sorted_array.py) | _O(logn)_ | _O(1)_ | Hard |
