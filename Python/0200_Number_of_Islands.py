@@ -17,8 +17,6 @@ class Solution:
         if grid[x][y] == '0':
             return
         grid[x][y] = '0'
-        print(grid)
-
         if x != 0:
             self.dfs(grid, row, col, x - 1 , y)
         if x != row - 1:
