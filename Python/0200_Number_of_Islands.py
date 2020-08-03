@@ -1,3 +1,8 @@
+"""
+Key point: 
+- Locate a '1' first and make all the right, left, up and down to '0'.
+- Make all the adjacent '1' to '0' so all the islands would be counted.
+"""
 class Solution:
     def numIslands(self, grid):
         if not grid:
