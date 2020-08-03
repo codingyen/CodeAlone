@@ -24,7 +24,7 @@
 ### Hash Table
 |  #  | Title | Solution | Time | Space | Difficulty | Note | 
 |-----|-------|----------|------|-------|------------|------|
-001| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/0001_two_sum.py) | _O(n)_ | _O(n)_ | Easy |
+0001| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/codingyen/CodeAlone/blob/master/Python/0001_two_sum.py) | _O(n)_ | _O(n)_ | Easy |
 
 ### Math
 |  #  | Title | Solution | Time | Space | Difficulty | Note | 
