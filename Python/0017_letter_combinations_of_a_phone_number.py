@@ -10,16 +10,16 @@ class Solution:
         if not digits:
             return []
         # Use DFS to solve
-        self.dfs(0, "", digits, sol, lookup)
+        self.helper(0, "", digits, sol, lookup)
         return sol
 
-    def dfs(self, depth, s, digits, sol, lookup):
+    def helper(self, depth, s, digits, sol, lookup):
         if depth == len(digits):
             sol.append(s)
             return
         else:
             for i in lookup[int(digits[depth])]:
-                self.dfs(depth + 1, s + i, digits, sol, lookup)
+                self.helper(depth + 1, s + i, digits, sol, lookup)
 
 if __name__ == "__main__":
     print("017 Letter Combinations of a Phone Number")
