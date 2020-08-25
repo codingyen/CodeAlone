@@ -1,5 +1,6 @@
 # Time: O(logn)
 # Space: O(1)
+
 class Solution:
     def search(self, nums: 'Lists[int]', target: 'int') -> 'int':
         left = 0
