@@ -22,9 +22,11 @@ class Solution:
                         # start cannot be the same as well.
                         while start < end and nums[start] == nums[start - 1]:
                             start += 1
+                        while start < end and nums[end] == nums[end + 1]:
+                            end -= 1
         return res
 
 if __name__ == "__main__":
-    nums = [-2, 0, 0, 2, 2]
+    nums = [0, 0, 0, 0]
     s = Solution()
     print(s.threeSum(nums))
